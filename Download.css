@@ -1,0 +1,6 @@
+<style type='text/css'>
+/* Download Counter Box */
+#btnx{cursor:pointer;padding:10px 20px;border:0;border-radius:3px;background:#fff;color:#e4705d;float:right;text-transform:capitalize;font-weight:500;transition:all 0.5s}#btnx:hover,#downloadx:hover{background:#fff;color:#ff3d00;outline:none}.batas-downx{display:block;margin:0 auto;border-radius:4px}.dalam-downx{background:#e4705d;color:#fff;padding:20px;display:block;border-top-right-radius:3px;border-top-left-radius:3px}.file-info{color:#fff;display:inline-block;font-size:1.2em;line-height:38px;text-align:left}.catatan-downx{padding:20px;background:#f7f7f7;border-bottom-right-radius:3px;border-bottom-left-radius:3px;color:#555;font-size:14px}#downloadx{float:right}#downloadx{padding:10px 20px;border-radius:3px;background:#fff;color:#e4705d;float:right;text-align:center;font-size:14px;text-transform:capitalize}.bungkus-info span{display:inline-block;line-height:38px;float:right}.file-deskripsi{display:block}.file-deskripsi span{margin-right:3px}
+@media screen and (max-width:640px){.batas-downx{float:none;width:100%}}
+@media screen and (max-width:320px){.file-info{display:block;text-align:center}#btnx, a#downloadx{width:100%;margin-bottom:10px}.bungkus-info span{float:none;width:100%;text-align:center}.file-deskripsi{text-align:center}}
+</style>
